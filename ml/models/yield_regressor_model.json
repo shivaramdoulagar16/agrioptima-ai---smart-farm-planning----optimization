@@ -1,0 +1,98 @@
+{
+  "potato": {
+    "base_yield": 16.56,
+    "opt_water": 4694.0,
+    "opt_fert": 221.0,
+    "opt_ph": 5.96,
+    "opt_temp": 18.5,
+    "sample_count": 138
+  },
+  "mustard": {
+    "base_yield": 1.27,
+    "opt_water": 2652.0,
+    "opt_fert": 108.0,
+    "opt_ph": 6.8,
+    "opt_temp": 18.2,
+    "sample_count": 137
+  },
+  "millets": {
+    "base_yield": 1.58,
+    "opt_water": 2931.0,
+    "opt_fert": 70.0,
+    "opt_ph": 6.68,
+    "opt_temp": 32.0,
+    "sample_count": 157
+  },
+  "soybean": {
+    "base_yield": 1.89,
+    "opt_water": 4252.0,
+    "opt_fert": 84.0,
+    "opt_ph": 6.73,
+    "opt_temp": 27.1,
+    "sample_count": 146
+  },
+  "groundnut": {
+    "base_yield": 1.76,
+    "opt_water": 3996.0,
+    "opt_fert": 97.0,
+    "opt_ph": 6.58,
+    "opt_temp": 28.1,
+    "sample_count": 150
+  },
+  "rice": {
+    "base_yield": 3.36,
+    "opt_water": 11075.0,
+    "opt_fert": 178.0,
+    "opt_ph": 6.52,
+    "opt_temp": 27.8,
+    "sample_count": 149
+  },
+  "chickpea": {
+    "base_yield": 1.34,
+    "opt_water": 2754.0,
+    "opt_fert": 65.0,
+    "opt_ph": 6.98,
+    "opt_temp": 21.9,
+    "sample_count": 153
+  },
+  "tomato": {
+    "base_yield": 19.19,
+    "opt_water": 5626.0,
+    "opt_fert": 215.0,
+    "opt_ph": 6.58,
+    "opt_temp": 23.6,
+    "sample_count": 146
+  },
+  "maize": {
+    "base_yield": 3.88,
+    "opt_water": 5195.0,
+    "opt_fert": 159.0,
+    "opt_ph": 6.49,
+    "opt_temp": 26.2,
+    "sample_count": 153
+  },
+  "sugarcane": {
+    "base_yield": 57.27,
+    "opt_water": 17412.0,
+    "opt_fert": 257.0,
+    "opt_ph": 6.78,
+    "opt_temp": 30.4,
+    "sample_count": 146
+  },
+  "cotton": {
+    "base_yield": 1.65,
+    "opt_water": 6851.0,
+    "opt_fert": 140.0,
+    "opt_ph": 7.24,
+    "opt_temp": 30.3,
+    "sample_count": 146
+  },
+  "wheat": {
+    "base_yield": 2.85,
+    "opt_water": 4587.0,
+    "opt_fert": 146.0,
+    "opt_ph": 6.83,
+    "opt_temp": 19.7,
+    "sample_count": 139
+  }
+}

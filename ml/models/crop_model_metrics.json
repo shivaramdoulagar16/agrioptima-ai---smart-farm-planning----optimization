@@ -1,0 +1,35 @@
+{
+  "model_name": "AgriOptima Random Forest Ensemble Classifier v1.2",
+  "algorithm": "RandomForest / Gaussian Ensemble with Agronomic Priors",
+  "train_samples": 1440,
+  "test_samples": 360,
+  "accuracy": 0.8083,
+  "macro_precision": 0.8057,
+  "macro_recall": 0.8074,
+  "f1_score": 0.8065,
+  "num_classes": 12,
+  "classes": [
+    "chickpea",
+    "cotton",
+    "groundnut",
+    "maize",
+    "millets",
+    "mustard",
+    "potato",
+    "rice",
+    "soybean",
+    "sugarcane",
+    "tomato",
+    "wheat"
+  ],
+  "feature_importance": {
+    "rainfall": 0.24,
+    "temperature": 0.19,
+    "soil_type": 0.16,
+    "pH": 0.14,
+    "N": 0.1,
+    "water_availability": 0.09,
+    "K": 0.05,
+    "P": 0.03
+  }
+}

@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  agrioptima-app:
+    build: .
+    container_name: agrioptima-ai
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - JWT_SECRET=agrioptima_super_secure_secret_jwt_2026
+    volumes:
+      - ./data:/app/data

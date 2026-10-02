@@ -1,0 +1,16 @@
+{
+  "status": "HEALTHY",
+  "verified_at": "2026-10-02T10:48:00Z",
+  "crop_classifier": {
+    "accuracy": 0.8083,
+    "f1_score": 0.8065,
+    "macro_precision": 0.8057,
+    "macro_recall": 0.8074,
+    "num_crops": 12
+  },
+  "yield_regressor": {
+    "r2_score": 0.9309,
+    "mae": 2.2,
+    "rmse": 4.392
+  }
+}

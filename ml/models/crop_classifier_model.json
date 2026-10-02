@@ -1,0 +1,594 @@
+{
+  "millets": {
+    "count": 138,
+    "prior": 0.09583333333333334,
+    "features": {
+      "N": {
+        "mean": 37.495,
+        "std": 19.893
+      },
+      "P": {
+        "mean": 17.464,
+        "std": 9.472
+      },
+      "K": {
+        "mean": 15.254,
+        "std": 8.571
+      },
+      "temperature": {
+        "mean": 32.545,
+        "std": 3.39
+      },
+      "humidity": {
+        "mean": 64.155,
+        "std": 14.172
+      },
+      "pH": {
+        "mean": 6.717,
+        "std": 0.396
+      },
+      "rainfall": {
+        "mean": 442.734,
+        "std": 139.294
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Sandy Loam": 0.3116,
+        "Red Soil": 0.3261,
+        "Clay Loam": 0.029,
+        "Loam": 0.3188,
+        "Black Soil": 0.0072,
+        "Clay": 0.0072
+      },
+      "season": {
+        "Zaid": 0.029,
+        "Kharif": 0.8913,
+        "Rabi": 0.0797
+      }
+    }
+  },
+  "rice": {
+    "count": 112,
+    "prior": 0.07777777777777778,
+    "features": {
+      "N": {
+        "mean": 100.577,
+        "std": 20.502
+      },
+      "P": {
+        "mean": 44.482,
+        "std": 13.102
+      },
+      "K": {
+        "mean": 36.013,
+        "std": 9.735
+      },
+      "temperature": {
+        "mean": 28.105,
+        "std": 3.732
+      },
+      "humidity": {
+        "mean": 65.663,
+        "std": 16.547
+      },
+      "pH": {
+        "mean": 6.522,
+        "std": 0.415
+      },
+      "rainfall": {
+        "mean": 1709.199,
+        "std": 136.155
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Alluvial": 0.3482,
+        "Clay": 0.3214,
+        "Clay Loam": 0.2679,
+        "Black Soil": 0.0446,
+        "Red Soil": 0.0179
+      },
+      "season": {
+        "Kharif": 0.9018,
+        "Zaid": 0.0536,
+        "Rabi": 0.0446
+      }
+    }
+  },
+  "wheat": {
+    "count": 103,
+    "prior": 0.07152777777777777,
+    "features": {
+      "N": {
+        "mean": 83.373,
+        "std": 20.416
+      },
+      "P": {
+        "mean": 39.182,
+        "std": 11.579
+      },
+      "K": {
+        "mean": 30.338,
+        "std": 9.871
+      },
+      "temperature": {
+        "mean": 19.829,
+        "std": 3.667
+      },
+      "humidity": {
+        "mean": 65.207,
+        "std": 13.729
+      },
+      "pH": {
+        "mean": 6.842,
+        "std": 0.368
+      },
+      "rainfall": {
+        "mean": 626.725,
+        "std": 128.57
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Alluvial": 0.3398,
+        "Loam": 0.2621,
+        "Clay Loam": 0.3495,
+        "Red Soil": 0.0097,
+        "Sandy Loam": 0.0291,
+        "Clay": 0.0097
+      },
+      "season": {
+        "Zaid": 0.068,
+        "Rabi": 0.9029,
+        "Kharif": 0.0291
+      }
+    }
+  },
+  "groundnut": {
+    "count": 125,
+    "prior": 0.08680555555555555,
+    "features": {
+      "N": {
+        "mean": 53.0,
+        "std": 18.122
+      },
+      "P": {
+        "mean": 23.177,
+        "std": 10.562
+      },
+      "K": {
+        "mean": 18.54,
+        "std": 9.535
+      },
+      "temperature": {
+        "mean": 27.974,
+        "std": 3.297
+      },
+      "humidity": {
+        "mean": 64.977,
+        "std": 15.827
+      },
+      "pH": {
+        "mean": 6.497,
+        "std": 0.389
+      },
+      "rainfall": {
+        "mean": 678.118,
+        "std": 150.98
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Alluvial": 0.024,
+        "Red Soil": 0.312,
+        "Loam": 0.328,
+        "Sandy Loam": 0.28,
+        "Black Soil": 0.032,
+        "Clay Loam": 0.008,
+        "Clay": 0.016
+      },
+      "season": {
+        "Kharif": 0.904,
+        "Zaid": 0.064,
+        "Rabi": 0.032
+      }
+    }
+  },
+  "soybean": {
+    "count": 135,
+    "prior": 0.09375,
+    "features": {
+      "N": {
+        "mean": 47.821,
+        "std": 19.599
+      },
+      "P": {
+        "mean": 20.575,
+        "std": 10.339
+      },
+      "K": {
+        "mean": 17.587,
+        "std": 8.038
+      },
+      "temperature": {
+        "mean": 26.845,
+        "std": 3.541
+      },
+      "humidity": {
+        "mean": 65.128,
+        "std": 15.968
+      },
+      "pH": {
+        "mean": 6.709,
+        "std": 0.363
+      },
+      "rainfall": {
+        "mean": 810.502,
+        "std": 153.038
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Black Soil": 0.3556,
+        "Clay Loam": 0.3407,
+        "Loam": 0.2593,
+        "Alluvial": 0.0148,
+        "Sandy Loam": 0.0148,
+        "Red Soil": 0.0074,
+        "Clay": 0.0074
+      },
+      "season": {
+        "Rabi": 0.0444,
+        "Kharif": 0.8963,
+        "Zaid": 0.0593
+      }
+    }
+  },
+  "sugarcane": {
+    "count": 94,
+    "prior": 0.06527777777777778,
+    "features": {
+      "N": {
+        "mean": 144.782,
+        "std": 19.154
+      },
+      "P": {
+        "mean": 65.08,
+        "std": 11.926
+      },
+      "K": {
+        "mean": 52.317,
+        "std": 9.396
+      },
+      "temperature": {
+        "mean": 30.288,
+        "std": 3.534
+      },
+      "humidity": {
+        "mean": 65.65,
+        "std": 14.146
+      },
+      "pH": {
+        "mean": 6.791,
+        "std": 0.425
+      },
+      "rainfall": {
+        "mean": 1649.882,
+        "std": 151.76
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Loam": 0.3617,
+        "Alluvial": 0.3191,
+        "Clay Loam": 0.2447,
+        "Sandy Loam": 0.0426,
+        "Red Soil": 0.0106,
+        "Black Soil": 0.0213
+      },
+      "season": {
+        "Kharif": 0.2553,
+        "Rabi": 0.3723,
+        "Zaid": 0.3723
+      }
+    }
+  },
+  "cotton": {
+    "count": 124,
+    "prior": 0.08611111111111111,
+    "features": {
+      "N": {
+        "mean": 78.366,
+        "std": 21.9
+      },
+      "P": {
+        "mean": 34.883,
+        "std": 12.24
+      },
+      "K": {
+        "mean": 28.481,
+        "std": 9.736
+      },
+      "temperature": {
+        "mean": 29.765,
+        "std": 3.389
+      },
+      "humidity": {
+        "mean": 64.788,
+        "std": 14.049
+      },
+      "pH": {
+        "mean": 7.202,
+        "std": 0.398
+      },
+      "rainfall": {
+        "mean": 897.79,
+        "std": 138.687
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Loam": 0.3629,
+        "Black Soil": 0.2419,
+        "Clay Loam": 0.3145,
+        "Sandy Loam": 0.0403,
+        "Alluvial": 0.0161,
+        "Red Soil": 0.0081,
+        "Clay": 0.0161
+      },
+      "season": {
+        "Kharif": 0.879,
+        "Rabi": 0.0645,
+        "Zaid": 0.0565
+      }
+    }
+  },
+  "maize": {
+    "count": 115,
+    "prior": 0.0798611111111111,
+    "features": {
+      "N": {
+        "mean": 92.158,
+        "std": 19.725
+      },
+      "P": {
+        "mean": 38.413,
+        "std": 10.307
+      },
+      "K": {
+        "mean": 30.577,
+        "std": 10.538
+      },
+      "temperature": {
+        "mean": 26.383,
+        "std": 3.945
+      },
+      "humidity": {
+        "mean": 65.397,
+        "std": 16.809
+      },
+      "pH": {
+        "mean": 6.449,
+        "std": 0.393
+      },
+      "rainfall": {
+        "mean": 781.963,
+        "std": 149.132
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Loam": 0.3043,
+        "Sandy Loam": 0.2348,
+        "Red Soil": 0.2696,
+        "Clay Loam": 0.0087,
+        "Alluvial": 0.1565,
+        "Black Soil": 0.0174,
+        "Clay": 0.0087
+      },
+      "season": {
+        "Kharif": 0.3391,
+        "Zaid": 0.287,
+        "Rabi": 0.3739
+      }
+    }
+  },
+  "mustard": {
+    "count": 130,
+    "prior": 0.09027777777777778,
+    "features": {
+      "N": {
+        "mean": 59.832,
+        "std": 17.056
+      },
+      "P": {
+        "mean": 28.056,
+        "std": 11.491
+      },
+      "K": {
+        "mean": 21.795,
+        "std": 9.531
+      },
+      "temperature": {
+        "mean": 18.586,
+        "std": 3.166
+      },
+      "humidity": {
+        "mean": 64.822,
+        "std": 13.663
+      },
+      "pH": {
+        "mean": 6.751,
+        "std": 0.41
+      },
+      "rainfall": {
+        "mean": 372.298,
+        "std": 151.317
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Alluvial": 0.3154,
+        "Loam": 0.3,
+        "Sandy Loam": 0.3615,
+        "Clay Loam": 0.0077,
+        "Black Soil": 0.0077,
+        "Clay": 0.0077
+      },
+      "season": {
+        "Kharif": 0.0538,
+        "Rabi": 0.9,
+        "Zaid": 0.0462
+      }
+    }
+  },
+  "tomato": {
+    "count": 121,
+    "prior": 0.08402777777777778,
+    "features": {
+      "N": {
+        "mean": 114.323,
+        "std": 19.976
+      },
+      "P": {
+        "mean": 52.973,
+        "std": 12.139
+      },
+      "K": {
+        "mean": 41.466,
+        "std": 10.301
+      },
+      "temperature": {
+        "mean": 24.003,
+        "std": 3.634
+      },
+      "humidity": {
+        "mean": 64.464,
+        "std": 13.84
+      },
+      "pH": {
+        "mean": 6.477,
+        "std": 0.408
+      },
+      "rainfall": {
+        "mean": 639.74,
+        "std": 171.738
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Loam": 0.281,
+        "Red Soil": 0.0413,
+        "Sandy Loam": 0.2975,
+        "Alluvial": 0.3554,
+        "Clay": 0.0165,
+        "Clay Loam": 0.0083
+      },
+      "season": {
+        "Rabi": 0.3802,
+        "Kharif": 0.281,
+        "Zaid": 0.3388
+      }
+    }
+  },
+  "potato": {
+    "count": 113,
+    "prior": 0.07847222222222222,
+    "features": {
+      "N": {
+        "mean": 122.629,
+        "std": 20.452
+      },
+      "P": {
+        "mean": 56.067,
+        "std": 12.592
+      },
+      "K": {
+        "mean": 43.776,
+        "std": 10.213
+      },
+      "temperature": {
+        "mean": 18.827,
+        "std": 3.366
+      },
+      "humidity": {
+        "mean": 66.38,
+        "std": 14.851
+      },
+      "pH": {
+        "mean": 6.034,
+        "std": 0.411
+      },
+      "rainfall": {
+        "mean": 577.942,
+        "std": 146.517
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Loam": 0.3894,
+        "Sandy Loam": 0.5221,
+        "Black Soil": 0.0265,
+        "Clay Loam": 0.0354,
+        "Red Soil": 0.0177,
+        "Alluvial": 0.0088
+      },
+      "season": {
+        "Rabi": 0.9115,
+        "Kharif": 0.0531,
+        "Zaid": 0.0354
+      }
+    }
+  },
+  "chickpea": {
+    "count": 130,
+    "prior": 0.09027777777777778,
+    "features": {
+      "N": {
+        "mean": 35.862,
+        "std": 18.37
+      },
+      "P": {
+        "mean": 18.28,
+        "std": 9.443
+      },
+      "K": {
+        "mean": 14.943,
+        "std": 8.122
+      },
+      "temperature": {
+        "mean": 21.781,
+        "std": 3.185
+      },
+      "humidity": {
+        "mean": 64.965,
+        "std": 13.905
+      },
+      "pH": {
+        "mean": 6.968,
+        "std": 0.397
+      },
+      "rainfall": {
+        "mean": 502.16,
+        "std": 149.646
+      }
+    },
+    "categorical": {
+      "soil_type": {
+        "Sandy Loam": 0.3154,
+        "Loam": 0.2538,
+        "Black Soil": 0.3462,
+        "Clay Loam": 0.0308,
+        "Alluvial": 0.0231,
+        "Red Soil": 0.0231,
+        "Clay": 0.0077
+      },
+      "season": {
+        "Rabi": 0.9231,
+        "Zaid": 0.0538,
+        "Kharif": 0.0231
+      }
+    }
+  }
+}

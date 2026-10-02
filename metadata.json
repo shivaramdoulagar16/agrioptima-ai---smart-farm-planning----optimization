@@ -1,0 +1,6 @@
+{
+  "name": "AgriOptima AI - Smart Farm Planning & Optimization",
+  "description": "AI agricultural decision-support system: crop suitability, yield prediction, LP resource optimization, what-if simulation, and explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
